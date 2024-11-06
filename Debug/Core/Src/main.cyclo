@@ -1,0 +1,14 @@
+../Core/Src/main.c:60:5:main	2
+../Core/Src/main.c:140:6:SystemClock_Config	4
+../Core/Src/main.c:187:13:MX_ADC1_Init	3
+../Core/Src/main.c:234:13:MX_I2C2_Init	2
+../Core/Src/main.c:268:13:MX_USART1_UART_Init	2
+../Core/Src/main.c:301:13:MX_GPIO_Init	1
+../Core/Src/main.c:327:6:i2c_write	1
+../Core/Src/main.c:333:6:i2c_read	1
+../Core/Src/main.c:339:6:calc	1
+../Core/Src/main.c:350:6:print	1
+../Core/Src/main.c:372:6:StartBNO	1
+../Core/Src/main.c:398:6:StartIR	2
+../Core/Src/main.c:441:6:HAL_TIM_PeriodElapsedCallback	2
+../Core/Src/main.c:458:6:Error_Handler	1
